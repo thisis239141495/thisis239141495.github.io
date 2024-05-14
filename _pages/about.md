@@ -24,7 +24,7 @@ Projects
 1. Hi
 2. Hello
 
-Acitivities
+Activities
 ------
 1. Hi
 2. Hello
