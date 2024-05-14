@@ -10,6 +10,8 @@ redirect_from:
 
 As a first-year student at Vanderbilt University, pursuing double majors in Mathematics and Computer Science with minors in Data Science and Political Science, I am passionate in interdisciplinary studies in social science and computer science and applying my skills in data analysis and modeling to real-world issues, particularly in ameliorating social inequality and assisting vulnerable groups through technical empowerment and a humanistic approach. In personal life, I am proudly an Arsenal fan since 10.
 
+
+
 Publications
 ------
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
