@@ -12,4 +12,4 @@ This paper focuses on how to use smart technologies to help people under homeles
 
 [Download paper here] (https://ieeexplore.ieee.org/abstract/document/10185514)
 
-Recommended citation: Y. Wang and Y. Fang, "Preliminary Exploration and Evaluation of Smart Support for Homeless Community," 2022 6th International Conference on Universal Village (UV), Boston, MA, USA, 2022, pp. 1-14, doi: 10.1109/UV56588.2022.10185514.
+Recommended citation: Wang, Yitong, and Yajun Fang. "Preliminary Exploration and Evaluation of Smart Support for Homeless Community." 2022 6th International Conference on Universal Village (UV). IEEE, 2022.
