@@ -14,11 +14,16 @@ In personal life, I enjoy playing soccer and tennis, doing sudoku and debating. 
 
 
 
-Publications
+Recent News
 ------
 1. Hi
 2. Hello
 
+
+Publications
+------
+1. Hi
+2. Hello
 
 
 Projects
