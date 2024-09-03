@@ -21,12 +21,12 @@ Recent News
 
 Publications
 ------
-*
+* 
 
 
 Projects
 ------
-*
+* 
 
 
 Professional Experiences and Services
