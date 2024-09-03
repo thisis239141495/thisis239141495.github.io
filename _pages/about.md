@@ -31,9 +31,9 @@ Projects
 
 Professional Experiences and Services
 ------
-* Reviewer, Vanderbilt Undergraduate Research Journal 2024
-* Research Assistant, Universal Village
-* Student Co-Cordinator and Session Assistant, IEEE International Conference on Universal Village 2022
+* Reviewer: Vanderbilt Undergraduate Research Journal 2024
+* Research Assistant: Universal Village Society
+* Student Co-Cordinator and Session Assistant: IEEE International Conference on Universal Village 2022
 
 
 For more info
