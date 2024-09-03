@@ -21,7 +21,7 @@ Recent News
 
 Publications
 ------
-* 
+* Preliminary Exploration and Evaluation of Smart Support for Homeless Community
 
 
 Projects
