@@ -37,8 +37,7 @@ Activities
 
 Professional Experiences and Services
 ------
-1. Hi
-2. Hello
+* Reviewer, Vanderbilt Undergraduate Research Journal 2024
 
 
 For more info
