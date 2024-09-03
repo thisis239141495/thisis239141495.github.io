@@ -16,28 +16,24 @@ In personal life, I enjoy playing soccer and tennis, doing sudoku and building L
 
 Recent News
 ------
-1. 
+* 
 
 
 Publications
 ------
-1. Hi
-2. Hello
+*
 
 
 Projects
 ------
-1. Hi
-2. Hello
+*
 
-Activities
-------
-1. Hi
-2. Hello
 
 Professional Experiences and Services
 ------
 * Reviewer, Vanderbilt Undergraduate Research Journal 2024
+* Research Assistant, Universal Village
+* Student Co-Cordinator and Session Assistant, IEEE International Conference on Universal Village 2022
 
 
 For more info
