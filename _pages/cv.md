@@ -13,6 +13,11 @@ Education
 ======
 * B.S. in Computer Science and Mathematics, Vanderbilt University, 2027 (expected)
 
+Awards
+======
+* Crescere Aude Scholar, Vanderbilt University
+* Dean's List (All Semesters), Vanderbilt University
+
 Research
 ======
 * Universal Village Society
@@ -26,13 +31,11 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-  
 Skills
 ======
 * Language of Speaking: Mandarin (native proficiency), English (native proficiency), Spanish (elementary)
 * Programming Language: Advanced in Java, proficient in R, Python, C++ and JavaScript
 * Other Skills: Microsoft Office (Words, PowerPoint, Excel), Google Suite, Latex, SQL
-
 
 Experiences
 ======
