@@ -1,1 +1,35 @@
+---
+layout: archive
+title: "Experiences"
+permalink: /experiences/
+author_profile: true
+redirect_from:
+  - /resume
+---
+
+{% include base_path %}
+
+Research
+======
+* Universal Village Society
+  * Led weekly group presentation within Smart Humanity Group about team member’s progress (3-5 hours per week)
+  * Analyzed 300+ papers briefly and 100+ papers thoroughly in technology and intelligence for homeless community
+  * Published paper in Preliminary Exploration and Evaluation of Smart Support for Homeless Community (first author)
+
+Professional
+======
+
+Others
+======
+* Varsity Soccer
+  * Starting Center-Attack Midfielder and Coach Assistant
+  * Organized preparation and reflection meetings before and after each game
+  * Contacted for school-level competitions in Jinan city and arranged internal games between grades every week
+ 
+* Salvare(a stray cat protection organization)
+  * Founder and President
+  * Led field research of Jinan City stray cat detection and paper writing on Investigation on the protection of Stray cats in Jinan Community and feasibility analysis of TNR method (first author)
+  * Designed innovative trapping cage in protecting stray cat and made 5 pilot areas in Jinan City
+  * Produced a documentary about stray cat protection and our approach and actions and received 1,500+ views in Internet
+  * Won the runner-up prize in China Thinks Big (a national innovation pitch competition)
 
