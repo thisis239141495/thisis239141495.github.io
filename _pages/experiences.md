@@ -24,12 +24,14 @@ Professional
 * Chair Referee@SEHS Debate Cup
 * Academic Ambassador@SEHS Student Ambassador
 
-Others
+Sports
 ======
 * Starting Center-Attack Midfielder and Coach Assistant@Varsity Soccer
   * Organized preparation and reflection meetings before and after each game
   * Contacted for citywide school-level competitions and arranged internal games between grades every week
- 
+
+Community
+======
 * Founder and President@Salvare(a stray cat protection organization)
   * Led field research of citywide stray cat detection and paper writing on "Investigation on the protection of Stray cats in Jinan Community and feasibility analysis of TNR method" (first author)
   * Designed innovative trapping cage in protecting stray cat and made 5 pilot areas in Jinan City
