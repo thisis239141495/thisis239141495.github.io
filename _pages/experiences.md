@@ -17,7 +17,7 @@ redirect_from:
 Professional
 ======
 * Marketing Intern@Vanderbilt Athletics
-* Machine Learning Intern@Inspure
+* Machine Learning Intern@Inspur
 * Equity Research Intern@Zhongtai Securities
 * Reviewer@Vanderbilt Undergraduate Research Journal
 * Student Co-Coordinator@IEEE International Conference on Universal Village 2022
