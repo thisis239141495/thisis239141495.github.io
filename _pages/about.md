@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi! I am Winnie Wang.
+Hi! I am Winnie.
 
 As a sophomore at Vanderbilt University, pursuing double majors in Mathematics and Computer Science with minors in Data Science and Political Science, I am broadly passionate in interdisciplinary studies in social science and computer science and applying methods in artificial intelligence to solve real-world issues. I am particularly interested in human-computer interaction, operation research and computing social science. 
 
