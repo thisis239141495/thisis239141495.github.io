@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Winnie(Yitong) Wang / Homepage"
+title                    : "Yitong(Winnie) Wang / Homepage"
 title_separator          : "-"
-name                     : &name "Winnie(Yitong) Wang"
-description              : &description "Math & CS @ Vanderbilt"
+name                     : &name "Yitong(Winnie) Wang"
+description              : &description "Welcome to my homepage : )"
 url                      : https://thisis239141495.github.io/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
