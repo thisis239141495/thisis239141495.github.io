@@ -6,11 +6,11 @@ main:
   - title: "Awards"
     url: /awards/ 
 
-  - title: "CV"
-    url: /cv/ 
-
   - title: "Experiences"
     url: /experiences/ 
+
+  - title: "Skills"
+    url: /skills/ 
     
   - title: "Photography"
     url: /photography/
