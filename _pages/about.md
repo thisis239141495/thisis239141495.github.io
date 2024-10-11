@@ -24,10 +24,6 @@ Publications
 * [Preliminary Exploration and Evaluation of Smart Support for Homeless Community](https://ieeexplore.ieee.org/abstract/document/10185514) 
 
 
-Projects
-------
-* 
-
 
 Professional Experiences and Services
 ------
