@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-
+This page will contain my photography collections when I get them sorted out :)
