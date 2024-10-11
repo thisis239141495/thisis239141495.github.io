@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Yitong(Winnie) Wang / Homepage"
 title_separator          : "-"
-name                     : &name "Yitong(Winnie) Wang"
+name                     : &name "Winnie Wang 王翊彤"
 description              : &description "Math & CS @ Vanderbilt"
 url                      : https://thisis239141495.github.io/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
