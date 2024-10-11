@@ -30,7 +30,7 @@ Professional Experiences and Services
 * **Intern:** Machine Learning Intern@Inspur, Equity Research Intern@Zhongtai Securities
 * **Reviewer:** Vanderbilt Undergraduate Research Journal 2024, 2025
 * **Research Assistant:** Universal Village Society
-* **Student Co-Cordinator and Session Assistant:** IEEE International Conference on Universal Village 2022
+* **Student Co-Coordinator:** IEEE International Conference on Universal Village 2022
 
 
 For more info
