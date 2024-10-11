@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Yitong(Winnie) Wang / Homepage"
 title_separator          : "-"
-name                     : &name "Winnie Wang 王翊彤"
+name                     : &name "Yitong(Winnie) Wang"
 description              : &description "Math & CS @ Vanderbilt"
 url                      : https://thisis239141495.github.io/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yitong(Winnie) Wang"
+  name             : "Winnie Wang|王翊彤"
   avatar           : "profile.jpg"
   bio              : "Math + CS @ Vanderbilt"
   location         : "Nashville, U.S."
