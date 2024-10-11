@@ -3,11 +3,15 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "Awards"
+    url: /awards/ 
+
   - title: "CV"
     url: /cv/ 
+
+  - title: "Experiences"
+    url: /experiences/ 
     
   - title: "Photography"
     url: /photography/
-        
-  - title: "Misc"
-    url: /misc/
+    
