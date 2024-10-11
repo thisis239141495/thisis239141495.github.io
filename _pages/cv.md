@@ -36,7 +36,7 @@ Skills
 ======
 * Language of Speaking: Mandarin (native proficiency), English (native proficiency), Spanish (elementary)
 * Programming Language: Advanced in Java, proficient in R, Python, C++ and JavaScript
-* Other Skills: Microsoft Office (Words, PowerPoint, Excel), Google Suite, Latex, SQL
+* Other Skills: Microsoft Office (Words, PowerPoint, Excel), Google Suite, Latex, SQL, Git
 
 Experiences
 ======
