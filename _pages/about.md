@@ -9,9 +9,9 @@ redirect_from:
 ---
 Hi! I am Winnie.
 
-As a sophomore at Vanderbilt University, pursuing double majors in Mathematics and Computer Science with minors in Data Science and Political Science, I am broadly passionate in interdisciplinary studies in social science and computer science and applying methods in artificial intelligence to solve real-world issues. I am particularly interested in human-computer interaction, operation research and computing social science. 
+As a sophomore at Vanderbilt University, pursuing double majors in Mathematics and Computer Science with minors in Data Science and Political Science, I am broadly interested in interdisciplinary studies in social science and computer science and applying methods in artificial intelligence to solve real-world issues, particularly in human-computer interaction, operation research and computing social science. 
 
-In personal life, I enjoy playing soccer and tennis, doing sudoku, building LEGO and photographing. I am proudly an Arsenal fan since 10.
+In personal life, I am passionate in playing soccer and tennis, doing sudoku, building LEGO and photographing. I am proudly an Arsenal fan since 10.
 
 
 Publications
