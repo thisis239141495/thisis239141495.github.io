@@ -20,7 +20,6 @@ Professional
 * Machine Learning Intern@Inspure
 * Equity Research Intern@Zhongtai Securities
 * Reviewer@Vanderbilt Undergraduate Research Journal
-* Research Assistant@Universal Village Society
 * Student Co-Coordinator@IEEE International Conference on Universal Village 2022
 * Chair Referee@SEHS Debate Cup
 * Academic Ambassador@SEHS Student Ambassador
