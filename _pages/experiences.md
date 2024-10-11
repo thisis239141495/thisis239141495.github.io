@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: ""
+title: "Research"
 permalink: /experiences/
 author_profile: true
 redirect_from:
@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Research
-======
 * Universal Village Society
   * Led weekly group presentation within Smart Humanity Group about team member’s progress (3-5 hours per week)
   * Analyzed 300+ papers briefly and 100+ papers thoroughly in technology and intelligence for homeless community
