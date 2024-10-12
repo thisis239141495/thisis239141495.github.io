@@ -26,6 +26,6 @@ Professional Experiences and Services
 * **Student Co-Coordinator:** IEEE International Conference on Universal Village 2022
 
 
-For more info
+Contact
 ------
 Feel free to reach out at ytwangofficial [at] gmail [dot] com!
