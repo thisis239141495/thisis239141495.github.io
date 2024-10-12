@@ -31,8 +31,4 @@ Sports
 Community
 ======
 * Founder and President@Salvare(a stray cat protection organization)
-  * Led field research of citywide stray cat detection and paper writing on "Investigation on the protection of Stray cats in Jinan Community and feasibility analysis of TNR method" (first author)
-  * Designed innovative trapping cage in protecting stray cat and made 5 pilot areas in Jinan City
-  * Produced a documentary about stray cat protection and our approach and actions and received 1,500+ views in Internet
-  * Won the runner-up prize in China Thinks Big (a national innovation pitch competition)
 
