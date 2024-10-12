@@ -26,7 +26,7 @@ Professional
 
 Sports
 ======
-* Starting Center-Attack Midfielder@Varsity Soccer
+* Starting Central Attacking Midfielder@Varsity Soccer
 
 Community
 ======
