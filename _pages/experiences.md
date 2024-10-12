@@ -26,9 +26,7 @@ Professional
 
 Sports
 ======
-* Starting Center-Attack Midfielder and Coach Assistant@Varsity Soccer
-  * Organized preparation and reflection meetings before and after each game
-  * Contacted for citywide school-level competitions and arranged internal games between grades every week
+* Starting Center-Attack Midfielder@Varsity Soccer
 
 Community
 ======
