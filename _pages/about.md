@@ -9,7 +9,7 @@ redirect_from:
 ---
 As a sophomore at Vanderbilt University, pursuing double majors in Mathematics and Computer Science with minors in Data Science and Political Science, I have broad interests in interdisciplinary studies in social science and computer science and applying methods in artificial intelligence to solve real-world issues, particularly in human-computer interaction, operation research and computational social science. 
 
-In personal life, I am passionate about playing soccer and tennis, doing sudoku, building LEGO and photographing. I am proudly an Arsenal fan since 10.
+In personal life, I am passionate about playing soccer and tennis, solving sudoku, building LEGO and photographing. I am proudly an Arsenal fan since I was 10.
 
 
 Publications
