@@ -11,7 +11,7 @@ Hi! I am Yitong Wang, also go by Winnie.
 
 As a sophomore at Vanderbilt University, pursuing double majors in Mathematics and Computer Science, I have broad interests in operations research, particularly in machine learning for combinatorial optimization. I am also an advanced algorithm enthusiast.
 
-In personal life, I am passionate about playing soccer and tennis, solving sudoku and GeoGuessr, building LEGO and photographing. I am proudly an Arsenal fan since I was 10.
+In personal life, I am passionate about playing soccer and tennis, solving sudoku and GeoGuessr, and photographing. I am proudly an Arsenal fan since I was 10.
 
 
 Publications
