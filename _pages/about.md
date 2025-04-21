@@ -9,7 +9,7 @@ redirect_from:
 ---
 Hi! I am Yitong Wang, also go by Winnie. 
 
-As a sophomore at Vanderbilt University, pursuing double majors in Mathematics and Computer Science, my research interest lies in the intersection of computer science and social science, namely exploring non-human assistances in human-managed social-scale systems; I am also interested in operations research, and an advanced algorithm enthusiast.
+As a sophomore at Vanderbilt University, pursuing double majors in Mathematics and Computer Science, my research interest lies in the intersection of computer science and social science, namely incorporating non-human assistances in human-managed social-scale systems; I am also interested in operations research, and an advanced algorithm enthusiast.
 
 These are the questions I am trying to answer through my research: 
 * How can artificial intelligence models, particularly large language models (LLMs), be used to assist or enhance human-managed systems under high-stress conditions?
