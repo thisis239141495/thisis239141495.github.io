@@ -10,11 +10,11 @@ redirect_from:
 {% include base_path %}
 
 * Research Assistant@Universal Village Society
-  * Led weekly group presentation within Smart Humanity Group about team member’s progress (3-5 hours per week)
-  * Analyzed 300+ papers briefly and 100+ papers thoroughly in technology and intelligence for homeless community
-  * Published paper in Preliminary Exploration and Evaluation of Smart Support for Homeless Community
+  * Project: Preliminary Exploration and Evaluation of Smart Support for Homeless Community
  
 * Research Assistant@Vanderbilt AI-CPS Lab
+  * Project: LLM for 911 calling system
+ 
 
 Professional
 ======
