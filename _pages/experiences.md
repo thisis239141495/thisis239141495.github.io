@@ -13,7 +13,10 @@ redirect_from:
   * Project: Preliminary Exploration and Evaluation of Smart Support for Homeless Community
  
 * Research Assistant@Vanderbilt AI-CPS Lab
-  * Project: LLM for 911 calling system
+  * Project: LLM for 911 Calling System
+ 
+* Research Assistant@School of Mathematics, Shandong University
+  * Project: The Interplay of Migration Costs, Switching Probabilities, and Quality Differentiation in Oligopolistic Competition
  
 
 Professional
