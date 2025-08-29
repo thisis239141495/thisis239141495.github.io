@@ -21,6 +21,7 @@ redirect_from:
 
 Professional
 ======
+* Teaching Assistant@Vanderbilt CS Department
 * Marketing Intern@Vanderbilt Athletics
 * Machine Learning Intern@Inspur
 * Equity Research Intern@Zhongtai Securities
