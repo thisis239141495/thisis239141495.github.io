@@ -22,10 +22,10 @@ redirect_from:
 Professional
 ======
 * Teaching Assistant@Vanderbilt CS Department
+* Reviewer@Vanderbilt Undergraduate Research Journal
 * Marketing Intern@Vanderbilt Athletics
 * Machine Learning Intern@Inspur
 * Equity Research Intern@Zhongtai Securities
-* Reviewer@Vanderbilt Undergraduate Research Journal
 * Student Co-Coordinator@IEEE International Conference on Universal Village 2022
 * Chair Referee@SEHS Debate Cup
 * Academic Ambassador@SEHS Student Ambassador
