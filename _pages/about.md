@@ -12,11 +12,11 @@ Hi! I am Yitong Wang, also go by Winnie.
 As a junior at Vanderbilt University, pursuing double majors in Mathematics and Computer Science, my research interest lies in the intersection of **machine learning**, **combinatorial optimization**, and **mechanism design**, particularly in their application to large-scale, real-world systems, namely **incorporating non-human assistances in human-managed social-scale systems**; I am also an advanced algorithm enthusiast.
 
 These are the questions I am trying to answer through my research: 
-* How can machine learning structure be used to assist or enhance human-managed systems under high-stress conditions?
-* How can we ensure the scalability of AI-based solutions in social-scale systems, such that they remain robust and efficient when deployed across diverse, large-scale environments?
+* How can machine learning structure be used to assist or enhance decsion-making in human-managed systems under high-stress conditions?
 * How can algorithm optimized models be restructured to better fit the specific demands of resource-constrained social-scale systems?
+* How can we ensure the scalability of AI-based solutions in social-scale systems, such that they remain robust and efficient when deployed across diverse, large-scale environments?
 
-Ultimately, I seek to design learning-based systems that are not only mathematically sound and algorithmically efficient, but also deployable, adaptive, and impactful in real-world, human-centric domains.
+Ultimately, I seek to design learning-based systems with the integration of optimization and machine learning techniquesthat that are not only mathematically and algorithmically efficient, but also deployable, adaptive, and impactful in real-world, human-centric domains.
 
 In personal life, I am passionate about playing soccer and tennis, solving sudoku and GeoGuessr, and photographing. I am proudly an Arsenal fan since I was 10.
 
