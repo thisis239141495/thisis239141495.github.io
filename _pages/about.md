@@ -9,7 +9,7 @@ redirect_from:
 ---
 Hi! I am Yitong Wang, also go by Winnie. 
 
-As a junior at Vanderbilt University, pursuing double majors in Mathematics and Computer Science, my research interest lies in the intersection of **machine learning**, **combinatorial optimization**, and **mechanism design**, particularly in their application to large-scale, real-world systems, namely **incorporating non-human assistances in human-managed social-scale systems**; I am also interested an advanced algorithm enthusiast.
+As a junior at Vanderbilt University, pursuing double majors in Mathematics and Computer Science, my research interest lies in the intersection of **machine learning**, **combinatorial optimization**, and **mechanism design**, particularly in their application to large-scale, real-world systems, namely **incorporating non-human assistances in human-managed social-scale systems**; I am also an advanced algorithm enthusiast.
 
 These are the questions I am trying to answer through my research: 
 * How can machine learning structure be used to assist or enhance human-managed systems under high-stress conditions?
