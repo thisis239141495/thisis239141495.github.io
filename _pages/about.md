@@ -27,10 +27,9 @@ Publications
 
 
 
-Professional Experiences and Services
+Projects
 ------
-* **Intern:** Machine Learning Intern@Inspur, Equity Research Intern@Zhongtai Securities
-* **Reviewer:** Vanderbilt Undergraduate Research Journal 2024, 2025
+* **Flight-Planner** 
 
 Contact
 ------
