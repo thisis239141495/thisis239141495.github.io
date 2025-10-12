@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
  
 * Research Assistant@School of Mathematics, Shandong University
-  * Project: Game Theory Application: Migration Costs, Switching Probabilities, and Quality Differentiation in Oligopolistic Competition
+  * Project: The Application of Game Theory: Migration Costs, Switching Probabilities, and Quality Differentiation in Oligopolistic Competition
  
 * Research Assistant@Vanderbilt AI-CPS Lab
   * Project: LLM for 911 Calling System
