@@ -14,7 +14,7 @@ As a junior at Vanderbilt University, pursuing double majors in Mathematics and 
 These are the questions I am trying to answer through my research: 
 * How can reinforcement learning be used to assist or enhance decsion-making in human-managed systems under high-stress conditions?
 * How can algorithm optimized models be restructured to better fit the specific demands of resource-constrained social-scale systems?
-* How can we ensure the scalability of learning-based solutions in social-scale systems, such that they remain robust and efficient when deployed across diverse, large-scale environments?
+* How can we ensure the scalability of learning-based solutions, such that they remain robust and efficient when deployed across diverse, large-scale environments?
 
 Ultimately, I seek to design learning-based decision-making systems that are not only mathematically and algorithmically efficient, but also deployable, adaptive, and impactful in real-world, human-centric domains.
 
