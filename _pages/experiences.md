@@ -32,9 +32,6 @@ Professional
 * Chair Referee@SEHS Debate Cup
 * Academic Ambassador@SEHS Student Ambassador
 
-Sports
-======
-* Starting Central Attacking Midfielder@Varsity Soccer
 
 Community
 ======
