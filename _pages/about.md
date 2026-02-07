@@ -33,4 +33,4 @@ Projects
 
 Contact
 ------
-Feel free to reach out at ytwangofficial [at] gmail [dot] com!
+Please feel free to reach out at ytwangofficial [at] gmail [dot] com.
