@@ -12,7 +12,7 @@ Hi! I am Yitong Wang, also go by Winnie.
 As a junior at Vanderbilt University, pursuing double majors in Mathematics and Computer Science, my research interest lies in the intersection of **machine learning**, **dynamic optimization**, and **mechanism design**, particularly in their application to large-scale, real-world systems, namely **incorporating non-human assistances in the decision-making process of human-managed social-scale systems**; I am also an advanced algorithm enthusiast.
 
 These are the questions I am trying to answer through my research: 
-* How can learning algorithms be used to assist or enhance decsion-making in human-managed systems under high-stress conditions?
+* How can learning algorithms be used to assist or enhance decision-making in human-managed systems under high-stress conditions?
 * How can algorithm optimized models be restructured to better fit the specific demands of resource-constrained social-scale systems?
 * How can we ensure the scalability of learning-based solutions, such that they remain robust and efficient when deployed across diverse, large-scale environments?
 
