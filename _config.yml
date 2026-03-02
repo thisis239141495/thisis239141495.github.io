@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "YW / Homepage"
 title_separator          : "-"
-name                     : &name "Yitong(Winnie) Wang"
+name                     : &name "Yitong Wang"
 description              : &description "Welcome to my homepage : )"
 url                      : https://thisis239141495.github.io/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
