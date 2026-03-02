@@ -10,6 +10,6 @@ redirect_from:
 {% include base_path %}
 
 
-* Language of Speaking: Mandarin (native proficiency), English (native proficiency), Spanish (elementary)
-* Programming Language: Advanced in Java and Python, proficient in R, C/C++ and JavaScript
-* Others: Microsoft Office (Words, PowerPoint, Excel), Google Suite, Latex, SQL, Git
+* Languages of Speaking: English, Chinese
+* Programming Languages: Java, Python, R, C/C++, JavaScript, HTML
+* Others: PyTorch, AWS, Docker, SQL, React, Mathematica, MATLAB, \LaTeX, Git
