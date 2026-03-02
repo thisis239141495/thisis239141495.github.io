@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi! I am Yitong Wang, also go by Winnie. 
+I am Yitong Wang, also go by Winnie. 
 
 As a junior at Vanderbilt University, pursuing double majors in Mathematics and Computer Science, my research interest lies in the intersection of **machine learning**, **dynamic optimization**, and **mechanism design**, particularly in their application to large-scale, real-world systems, namely **incorporating non-human assistances in the decision-making process of human-managed social-scale systems**; I am also an advanced algorithm enthusiast.
 
