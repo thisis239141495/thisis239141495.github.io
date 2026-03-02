@@ -18,7 +18,7 @@ These are the questions I am trying to answer through my research:
 
 Ultimately, I seek to design learning-based decision-making systems that are not only mathematically and algorithmically efficient, but also deployable, adaptive, and impactful in real-world, human-centric domains.
 
-In personal life, I am passionate about playing soccer and tennis, solving sudoku and GeoGuessr, and photographing. I am proudly an Arsenal fan since I was 10.
+In personal life, I am passionate about playing soccer and tennis, solving sudoku and GeoGuessr, and photographing.
 
 
 Publications
