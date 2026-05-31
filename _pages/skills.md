@@ -12,4 +12,4 @@ redirect_from:
 
 * Languages of Speaking: English, Chinese
 * Programming Languages: Java, Python, R, C/C++, JavaScript, HTML
-* Others: PyTorch, AWS, Docker, SQL, React, Mathematica, MATLAB, <span class="math">$\LaTeX$</span>, Git
+* Others: PyTorch, AWS, Docker, SQL, React, Mathematica, MATLAB, Latex, Git
