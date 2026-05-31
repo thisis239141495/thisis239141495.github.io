@@ -16,8 +16,6 @@ These are the questions I am trying to answer through my research:
 * How can algorithm optimized models be restructured to better fit the specific demands of resource-constrained social-scale systems?
 * How can we ensure the scalability of learning-based solutions, such that they remain robust and efficient when deployed across diverse, large-scale environments?
 
-Ultimately, I seek to design learning-based decision-making systems that are not only mathematically and algorithmically efficient, but also deployable, adaptive, and impactful in real-world, human-centric domains.
-
 In personal life, I am passionate about playing soccer and tennis, solving sudoku and GeoGuessr, and photographing.
 
 
