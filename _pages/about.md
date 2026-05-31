@@ -9,7 +9,7 @@ redirect_from:
 ---
 I am Yitong Wang, also go by Winnie. 
 
-As a junior at Vanderbilt University, pursuing double majors in Mathematics and Computer Science, I am interested in **machine learning algorithms for operations research**, particularly in large-scale, real-world systems, namely **incorporating non-human assistances in the decision-making process of human-managed social-scale systems**; I am also an advanced algorithm enthusiast.
+As a junior at Vanderbilt University, pursuing double majors in Mathematics and Computer Science, I am interested in **learning algorithms for operations research**, particularly in large-scale, real-world systems, namely **incorporating non-human assistances in the decision-making process of human-managed social-scale systems**; I am also an advanced algorithm enthusiast.
 
 These are the questions I am trying to answer through my research: 
 * How can learning algorithms be used to assist or enhance decision-making in human-managed systems under high-stress conditions?
