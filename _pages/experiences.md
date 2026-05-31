@@ -26,7 +26,7 @@ Professional
 * Teaching Assistant@Vanderbilt CS Department
 * Reviewer@Vanderbilt Undergraduate Research Journal
 * Logistics Intern@Vanderbilt Athletics
-* Machine Learning Intern@Inspur
+* Machine Learning Engineer Intern@Inspur
 * Equity Research Intern@Zhongtai Securities
 * Student Co-Coordinator@IEEE International Conference on Universal Village 2022
 
