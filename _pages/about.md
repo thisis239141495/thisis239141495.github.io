@@ -9,14 +9,14 @@ redirect_from:
 ---
 I am Yitong Wang, also go by Winnie. 
 
-As a junior at Vanderbilt University, pursuing double majors in Mathematics and Computer Science, I am interested in **learning algorithms for operations research**, particularly in large-scale, real-world systems, namely **incorporating non-human assistances in the decision-making process of human-managed social-scale systems**; I am also an advanced algorithm enthusiast.
+As a junior at Vanderbilt University, pursuing double majors in Mathematics and Computer Science, I am interested in **learning algorithms for social-scale systems** with scalability and interpretability, namely **incorporating non-human assistances in the decision-making process of human-managed social-scale systems**; I am also an advanced algorithm enthusiast.
 
 These are the questions I am trying to answer through my research: 
 * How can learning algorithms be used to assist or enhance decision-making in human-managed systems under high-stress conditions?
 * How can algorithm optimized models be restructured to better fit the specific demands of resource-constrained social-scale systems?
 * How can we ensure the scalability of learning-based solutions, such that they remain robust and efficient when deployed across diverse, large-scale environments?
 
-In personal life, I am passionate about playing soccer and tennis, solving sudoku and GeoGuessr, and photographing.
+In personal life, I am passionate about playing soccer and tennis, solving sudoku and GeoGuessr, and photographing. I am proundly an Arsenal fan since 10. My lifelong ambition is to become a LEGO Master builder. 
 
 
 Publications
