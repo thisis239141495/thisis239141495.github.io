@@ -29,8 +29,6 @@ Professional
 * Machine Learning Intern@Inspur
 * Equity Research Intern@Zhongtai Securities
 * Student Co-Coordinator@IEEE International Conference on Universal Village 2022
-* Chair Referee@SEHS Debate Cup
-* Academic Ambassador@SEHS Student Ambassador
 
 
 Community
