@@ -9,7 +9,7 @@ redirect_from:
 ---
 I am Yitong Wang, also go by Winnie. 
 
-As a junior at Vanderbilt University, pursuing double majors in Mathematics and Computer Science, I am interested in **learning algorithms for social-scale systems** with scalability and interpretability, namely **incorporating non-human assistances in the decision-making process of human-managed social-scale systems**; I am also an advanced algorithm enthusiast.
+As a junior at Vanderbilt University, pursuing double majors in Mathematics and Computer Science, I am interested in **learning algorithms for social-scale systems** with scalability and interpretability, namely **incorporating non-human assistances in the decision-making process of human-managed social-scale systems**; I am also an advanced algorithm enthusiast. Recently, I am working on algorithmic techniques to improve decision-making in the context of allocation of scarce societal resources for homelessness community. 
 
 These are the questions I am trying to answer through my research: 
 * How can learning algorithms be used to assist or enhance decision-making in human-managed systems under high-stress conditions?
