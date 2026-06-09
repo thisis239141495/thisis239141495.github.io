@@ -16,7 +16,6 @@ These are the questions I am trying to answer through my research:
 * How can algorithm optimized models be restructured to better fit the specific demands of resource-constrained social-scale systems?
 * How can we ensure the scalability of learning-based solutions, such that they remain robust and efficient when deployed across diverse, large-scale environments?
 
-In personal life, I am passionate about playing soccer and tennis, solving sudoku and GeoGuessr, and photographing(aviation specifically). I am proundly an Arsenal fan since 10. My lifelong ambition is to become a LEGO Master builder. 
 
 
 Publications
@@ -32,3 +31,7 @@ Projects
 Contact
 ------
 Please feel free to reach out at ytwangofficial [at] gmail [dot] com.
+
+Misc
+------
+I am passionate about playing soccer and tennis, solving sudoku and GeoGuessr, and photographing (aviation specifically). I am proundly an Arsenal fan since 10. My lifelong ambition is to become a LEGO Master builder. 
