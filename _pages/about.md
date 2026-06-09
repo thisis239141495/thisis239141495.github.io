@@ -23,11 +23,6 @@ Publications
 * [Preliminary Exploration and Evaluation of Smart Support for Homeless Community](https://ieeexplore.ieee.org/abstract/document/10185514) 
 
 
-
-Projects
-------
-* **Flight-Planner** 
-
 Contact
 ------
 Please feel free to reach out at ytwangofficial [at] gmail [dot] com.
