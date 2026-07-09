@@ -7,8 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am Yitong W. Wang. 
-
 As a junior at Vanderbilt University, pursuing double majors in Mathematics and Computer Science, I am interested in **building scalable and interpretable learning algorithms for social-scale systems** in both theory and application sides; I am also an advanced algorithm enthusiast. 
 
 These are the questions I am trying to answer through my research: 
