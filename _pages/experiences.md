@@ -23,6 +23,7 @@ redirect_from:
 
 Professional
 ======
+* Teaching Assistant@Vanderbilt Math Department
 * Teaching Assistant@Vanderbilt CS Department
 * Reviewer@Vanderbilt Undergraduate Research Journal
 * Logistics Intern@Vanderbilt Athletics
